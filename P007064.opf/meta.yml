@@ -5,11 +5,12 @@ source_metadata:
   title: ངག་དབང་འཇམ་དབྱངས་རྒྱལ་མཚན་གྱི་རྣམ་ཐར་
   author: ''
   volumes:
-    a01c61dd9c434685a5a676fd91263d17:
+    faaf5e2fe0f84b538d5da13e6422da5b:
       image_group_id: I1KG969
-      title: ''
+      title: Volume 1 of ngag dbang 'jam dbyangs rgyal mtshan gyi rnam thar
       volume_number: 1
       total_pages: 520
+      base_file: v001.txt
 ebook_metadata:
   title: ངག་དབང་འཇམ་དབྱངས་རྒྱལ་མཚན་གྱི་རྣམ་ཐར་
   author: ''
